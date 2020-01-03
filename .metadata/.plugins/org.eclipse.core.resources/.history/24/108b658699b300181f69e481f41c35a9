@@ -1,0 +1,13 @@
+package weather;
+
+import java.util.ArrayList;
+
+public class Sky {
+	private ArrayList<Cloud> clouds;
+	
+	public Sky(ArrayList<Cloud> clouds) {
+		this.clouds = 
+	}
+	
+	public 
+}
